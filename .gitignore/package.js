@@ -1,4 +1,4 @@
 {
-  "name": "",
+  "name": "Discod Bot",
   "version": ""
 }
