@@ -17,7 +17,7 @@ var eightball = [ // sets the answers to an eightball
     "C'est probable",
 ]
 
-bot.login('NDcyNDE3OTQxNTEwNjg0Njg1.Dj8kzg.WoznGoYl0uRvzlKqZvuw12uwRqM') 
+bot.login('') 
 
 bot.on('ready', () => {
     console.log("Bot Prêt !")
